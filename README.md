@@ -2,7 +2,7 @@
 
 # Hey, I'm Akshit 👋
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=2500&amp;pause=1000&amp;color=FFFFFF&amp;vCenter=true&amp;width=500&amp;lines=Computer+Science+Student;Software+Developer;Exploring+Different+Tech;Developer+%26+Builder" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;duration=2500&amp;pause=1000&amp;color=FFFFFF&amp;vCenter=true&amp;width=400&amp;lines=Computer+Science+Student;Software+Developer;Exploring+Different+Tech;Developer+%26+Builder" alt="Typing SVG">
 
 I like building things, solving problems, and occasionally wondering
 why my code worked 5 minutes ago but doesn't anymore.
