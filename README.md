@@ -3,7 +3,7 @@
 # Hey, I'm Akshit 👋
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=FFFFFF&vCenter=true&width=500&lines=Computer+Science+Student;Software+Developer;AI%2FML+Enthusiast;Developer+%26+Builder" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=FFFFFF&vCenter=true&width=500&lines=Computer+Science+Student;Software+Developer;Exploring Differnet Tech;Developer+%26+Builder" alt="Typing SVG" />
 </a>
 
 I like building things, solving problems, and occasionally wondering  
