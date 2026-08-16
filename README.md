@@ -1,126 +1,178 @@
-👋 Hey, I'm Akshit Kumar
+<div align="center">
 
+Hey, I'm Akshit 👋
 
+Software Engineering Student • Developer • Builder
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=180&section=header&text=AKSHIT%20KUMAR&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
+I like solving problems, building useful things, and occasionally breaking them first.
 
-<p align="center">
-  <a href="https://github.com/akshitbytes">
-    <img src="https://komarev.com/ghpvc/?username=akshitbytes&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
-  <img src="https://img.shields.io/github/followers/akshitbytes?label=Followers&style=flat" />
-</p>
+</div>
 
-🧑‍💻 About Me
+<table>
+<tr>
+<td width="58%" valign="top">
+
+👨‍💻 About Me
+
+name       : Akshit Kumar
+focus      : Software Development + AI/ML
+currently  : DSA, Backend & Machine Learning
+goal       : Build software that actually solves problems
+vibe       : build → break → debug → repeat
 
 🎓 Computer Science Engineering student
-💻 Interested in Software Development & AI/ML
-🧠 Currently sharpening DSA and problem solving
-⚙️ Building backend tools, CLIs and developer-focused projects
-🚀 I like turning ideas into things people can actually use
 
-"Build. Break. Learn. Repeat."
+🧠 Currently going deep into DSA & problem solving
 
-⚡ What I'm Working On
+⚙️ Interested in backend systems and developer tools
 
-🧩 Improving Data Structures & Algorithms
+🤖 Exploring AI / ML
 
-🤖 Exploring Machine Learning & AI
+🚀 Always working on some side project
 
-🌐 Building backend & developer tools
+☕ Powered by code, curiosity and questionable debugging decisions
 
-🚀 Working on projects that are actually useful
+<br>
 
-📚 Preparing for software engineering placements
+
+
+
+</td>
+
+<td width="42%" align="center">
+
+<!-- Replace this URL with your own GIF/image -->
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding animation">
+
+</td>
+</tr>
+</table>
+
+🧠 What I'm About
+
+learning:
+  - Data Structures & Algorithms
+  - Backend Development
+  - Machine Learning
+  - System Design fundamentals
+
+building:
+  - Developer tools
+  - CLI applications
+  - AI/ML projects
+  - Full-stack experiments
+
+philosophy:
+  - "Don't just learn it. Build it."
+  - "Understand the problem before optimizing the solution."
 
 🛠️ Tech Stack
 
 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,cpp,python,js,html,css" />
+<img src="https://skillicons.dev/icons?i=java,cpp,python,javascript,html,css" />
 </p>
 
-Development
+Development & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,git,github,linux,docker" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,docker,git,github,linux,vercel" />
 </p>
 
-Data / AI
+Data & AI
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
 </p>
 
-🚀 Featured Projects
+🚀 Things I've Been Building
+
+<table>
+<tr>
+<td width="50%">
 
 🌌 Nyxo
 
-A developer-focused CLI project exploring deployment, authentication and self-hosted infrastructure.
+A developer-focused CLI exploring deployment, authentication and self-hosted infrastructure.
 
-Stack: Node.js · Express · MongoDB · Docker · CLI
+Node.js · Express · MongoDB · Docker
 
-🤖 AI / ML Projects
+</td>
 
-Experiments and projects around data analysis, machine learning and intelligent applications.
+<td width="50%">
 
-Stack: Python · NumPy · Pandas · Scikit-learn · PyTorch
+🤖 AI / ML
 
-🧩 More Projects
+Experiments around data analysis, machine learning and intelligent applications.
 
-Check out my repositories — I'm constantly experimenting with new ideas.
+Python · NumPy · Pandas · Scikit-learn
 
-👉 Explore my repositories →
+</td>
+</tr>
+</table>
 
-📊 GitHub Stats
+📊 GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshitbytes&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitbytes&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=akshitbytes&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" height="165">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshitbytes&layout=compact&theme=github_dark&hide_border=true" height="165">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=akshitbytes&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=akshitbytes&theme=github-dark-blue&hide_border=true" width="70%">
 </p>
 
-🧠 LeetCode
+🧩 Currently Learning
+
+DSA             ███████████████░░░  75%
+Backend         ████████████░░░░░░  60%
+AI / ML         ██████████░░░░░░░░  50%
+System Design   ███████░░░░░░░░░░░  35%
+
+Numbers are vibes, not scientifically measured. 😭
+
+🐍 My Contributions
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/akshitbytes?theme=dark&font=baloo&ext=heatmap" />
+<img src="https://raw.githubusercontent.com/akshitbytes/akshitbytes/output/github-contribution-grid-snake.svg" alt="Contribution Snake">
 </p>
 
-🐍 Contribution Graph
+🎯 2026 Goals
+
+Become seriously good at DSA
+
+Build and ship more real-world projects
+
+Get stronger at backend engineering
+
+Go deeper into AI / ML
+
+Contribute to open source
+
+Build something people actually use
+
+🤝 Let's Connect
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akshitbytes/akshitbytes/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake animation" />
+
+<a href="https://github.com/akshitbytes">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
 </p>
 
-📈 Contribution Activity
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=akshitbytes&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
-</p>
+⚡ "Still learning. Still building. Still shipping."
 
-🌐 Connect With Me
+<br>
 
-<p align="center">
-  <a href="https://github.com/akshitbytes">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,100:1f2937&height=100&section=footer">
 
-<p align="center">
-  <b>Thanks for stopping by! 🚀</b>
-  <br/>
-  <sub>Always learning. Always building.</sub>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=100&section=footer" />
-</p>
+</div>
