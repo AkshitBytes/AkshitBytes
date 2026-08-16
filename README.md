@@ -2,21 +2,19 @@
 
 # Hey, I'm Akshit 👋
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=1000&color=FFFFFF&vCenter=true&width=500&lines=Computer+Science+Student;Software+Developer;Exploring+Different+Tech;Developer+%26+Builder" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=22&amp;duration=2500&amp;pause=1000&amp;color=FFFFFF&amp;vCenter=true&amp;width=500&amp;lines=Computer+Science+Student;Software+Developer;Exploring+Different+Tech;Developer+%26+Builder" alt="Typing SVG">
 
-I like building things, solving problems, and occasionally wondering  
+I like building things, solving problems, and occasionally wondering
 why my code worked 5 minutes ago but doesn't anymore.
 
-- 🧠 Currently deep into **DSA & problem solving**
-- 🤖 Exploring **AI / ML**
-- 💻 Building **software projects & developer tools**
-- 🛠️ Mostly working with **Java, Python & JavaScript**
-- 🚀 Always experimenting with something new
-- ☕ Powered by questionable amounts of caffeine
+* 🧠 Currently deep into **DSA & problem solving**
+* 🤖 Exploring **AI / ML**
+* 💻 Building **software projects & developer tools**
+* 🛠️ Mostly working with **Java, Python & JavaScript**
+* 🚀 Always experimenting with something new
+* ☕ Powered by questionable amounts of caffeine
 
-<br clear="right"/>
+<br clear="right">
 
 ---
 
